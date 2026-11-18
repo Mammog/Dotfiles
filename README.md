@@ -1,4 +1,4 @@
-# xNT4L's Dotfiles for EndeavourOS with Hyprland
+# My Dotfiles for EndeavourOS with Hyprland
 
 Personal dotfiles for EndeavourOS (Arch-based) using Hyprland Wayland compositor. Customizes workflow with lightweight, efficient tiling.
 
